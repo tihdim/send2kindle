@@ -2,7 +2,7 @@
 Bot for sending (converted) files to Amazon Kindle.
 Active Bot Instance in Telegram: https://t.me/SendToMyAmazonKindleBot
 
-Bot uses fb2c and kindlegen to convert FB2 files to EPUB
+Bot uses fb2c and kindlegen to convert FB2 files to EPUB.
 Download them from https://github.com/rupor-github/fb2converter/releases and paste them into the bot directory before launching
 
 With this bot, users can perform the following operations:
